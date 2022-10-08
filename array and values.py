@@ -45,7 +45,6 @@ while i<len(newarr):
 
 
 
-
 from array import *
 arr = array('i',[])
 n =int(input("enter values of an list"))
